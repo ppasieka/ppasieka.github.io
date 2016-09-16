@@ -1,6 +1,6 @@
 # Klasy i domknięcia w C#
 
-Od jakiegoś czasu interesuje się FP (Functional Programming) oraz tym jak zastosować jego dobrodziejstwa w językach, których główną naturą napewno nie jest FP. Mam głównie na myśli C#. Wśród wielu terminów związanych z FP (higer order functions, monada, pattern matching) przewija się **domknięcie**; 
+Od jakiegoś czasu interesuje się FP (Functional Programming) oraz tym jak zastosować jego dobrodziejstwa w językach, których główną naturą napewno nie jest FP. Mam głównie na myśli C#. Wśród wielu terminów związanych z FP (higher order functions, monada, pattern matching) przewija się **domknięcie**; 
 
 Często w różnych blogach pojawia się stwierdzenie, że obiekty to naiwne domknięcia, a domknięcia to naiwna obiekty. 
 
